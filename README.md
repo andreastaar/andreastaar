@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://res.cloudinary.com/dyerfr9g7/image/upload/v1727416301/Presentacio%CC%81n_negocio_marketing_degradado_elegante_moderno_rosa_y_negro_z1ixoj.png)
+![Andrea Banner](https://res.cloudinary.com/dyerfr9g7/image/upload/v1727416637/Presentacio%CC%81n_negocio_marketing_degradado_elegante_moderno_rosa_y_negro_1_euv4gs.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Andrea Estrella</h2>
 
